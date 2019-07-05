@@ -1,4 +1,4 @@
-package com.liu.example.dubbo.consumer.controller;
+package com.liu.example.dubbo.provider.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
