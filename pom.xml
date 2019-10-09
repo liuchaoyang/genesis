@@ -18,5 +18,6 @@
         <module>my-dubbo-provider</module>
         <module>my-dubbo-consumer</module>
         <module>my-cloud</module>
+        <module>my-kafka</module>
     </modules>
 </project>
