@@ -20,5 +20,6 @@
         <module>my-cloud</module>
         <module>my-kafka</module>
         <module>my-hadoop</module>
+        <module>my-javaagent</module>
     </modules>
 </project>

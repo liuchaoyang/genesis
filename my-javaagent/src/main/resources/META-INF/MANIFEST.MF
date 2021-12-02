@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: javaagent
+Main-Class: com.liu.example.MyAgent
+Agent-Class: com.liu.example.MyAgent
+Premain-Class: com.liu.example.MyAgent
+Can-Redefine-Classes: true
